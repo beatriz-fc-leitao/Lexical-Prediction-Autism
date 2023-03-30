@@ -15,7 +15,9 @@ To facilitate language comprehension, neurotypical individuals use contextual in
 The current study tested for differences in autistic and neurotypical adults’ ability to use local sentence context and global discourse context to make linguistic predictions about upcoming words. Neurotypical (n = 30) and autistic (n = 71) adults completed a task in which they predicted upcoming missing words in a written story. Missing words belonged to one of three conditions such that they were either predictable based on context from the preceding sentence, predictable only when context from the broader preceding discourse was considered, or completely unpredictable. 
 
 ## 💡 FINDINGS
-Results showed that autistic participants made more correct predictions than neurotypical peers when words were predictable based on context from the preceding sentence. There was no difference in performance between the two participant groups when words required context from the broader preceding discourse to be accurately predicted or were unpredictable. The study also explored whether task performance was associated with individual differences in ASD symptomatology, language ability, and low-level prediction. Language ability was the best predictor of task performance across both participant groups. 
+- Autistic participants made more correct predictions than neurotypical peers when words were predictable based on context from the preceding sentence. 
+- There was no difference in performance between the two participant groups when words required context from the broader preceding discourse to be accurately predicted or were unpredictable. 
+- Language ability was the best predictor of task performance relative to ASD symptomatology and low-level prediction, across both participant groups. 
 
 ## 📝 MAIN CONCLUSION
 It was concluded that linguistic prediction is not impaired in ASD and that this process relies heavily on language ability.
